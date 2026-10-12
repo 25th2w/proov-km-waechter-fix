@@ -3,7 +3,7 @@
 # nur nicht, es zu loeschen. (Catch-all helpers since 2013. Much of this is unused -- we just
 # never dared to delete anything.)
 
-MILES_PER_KM = 1.609                    # stimmt das so? (is that right?)
+MILES_PER_KM = 0.621371                 # 1 km = 0.621371 miles (was inverted before)
 
 
 def km_to_miles(km):
